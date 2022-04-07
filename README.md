@@ -1,2 +1,2 @@
 # SerialKillers
-Analysis of serial killers dataset downloaded from Kaggle website.
+Cleaning the data and analysis of serial killers dataset downloaded from Kaggle website.
